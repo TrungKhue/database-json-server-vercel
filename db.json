@@ -1,9 +1,45 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "commoditys": [
+    {
+      "id": 2,
+      "name": "Ô tô",
+      "releaseYear": "1228",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Toyota_Fortuner_4x4_Legender_%28LTD%29_2-Tone_White_Pearl-Black.jpg/220px-Toyota_Fortuner_4x4_Legender_%28LTD%29_2-Tone_White_Pearl-Black.jpg",
+      "price": "10000000000"
+    },
+    {
+      "id": 3,
+      "name": "Dầu mỏ",
+      "releaseYear": "924",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Petroleum_sample.jpg/250px-Petroleum_sample.jpg",
+      "price": "20000000000"
+    },
+    {
+      "id": 4,
+      "name": "Vi mạch",
+      "releaseYear": "1753",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/80486dx2-large.jpg/220px-80486dx2-large.jpg",
+      "price": "30000000000"
+    },
+    {
+      "id": 5,
+      "name": "Dược phẩm",
+      "releaseYear": "1890",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/12-08-18-tilidin-retard.jpg/220px-12-08-18-tilidin-retard.jpg",
+      "price": "5000000000"
+    },
+    {
+      "id": 6,
+      "name": "Vàng",
+      "releaseYear": "1380",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Fairmined_ingot_and_nugget.jpg/300px-Fairmined_ingot_and_nugget.jpg",
+      "price": "1000000000"
+    },
+    {
+      "name": "máy may",
+      "price": 1520221,
+      "picture": "https://bizweb.dktcdn.net/100/322/718/files/may-may-cong-nghiep-1-kim.jpg?v=1548318839246",
+      "id": 7
+    }
+  ]
 }
